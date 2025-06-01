@@ -1,0 +1,14 @@
+.click,
+.diff{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+.diff{
+    background-color: yellow;
+    color: black;
+    
+}
+.click{
+    background-color: #000000;
+    color:#ffffff;
+}
